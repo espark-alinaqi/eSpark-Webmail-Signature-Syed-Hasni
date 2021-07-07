@@ -1,0 +1,87 @@
+<div id="Custom_Size__1" style="width: 575px;
+		background-color: rgba(255,255,255,1);
+		overflow: hidden;
+		--web-view-name: Custom Size – 1;
+		--web-view-id: Custom_Size__1;
+		--web-scale-on-resize: true;
+		--web-enable-deep-linking: true;">
+		<div id="Craig_Anderson_Managing_Direct" style="width: 294px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		padding-top: 10px;
+		padding-bottom: 10px;
+		color: rgba(245,135,53,1);">
+			<span>Sam Leggitt<br/>Director, Aquinas Education</span>
+		</div>
+		<div id="ID01159_244_788____07940_350_2" style="padding-top: 10px;
+		padding-bottom: 10px;
+		width: 235px;
+		white-space: nowrap;
+		line-height: 20px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 16px;
+		color: rgba(30,30,30,1);">
+			<span>02038 906 767  |  07810 551 177<br/><a href="mailto:sam@aquinaseducation.co.uk">sam@aquinaseducation.co.uk</span></a>
+		</div>
+		
+		<a href="https://www.facebook.com/AquinasEducation"><img id="fb" src="https://www.thenewfat.co.uk/signatures/aquinas/fb@2x.png" alt="facebook" border="0" srcset="fb.png 1x, fb@2x.png 2x" Style="padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 5px;
+		padding-right: 5px;
+		width: 9px;
+		height: 16px;"></a>
+		<a href="https://twitter.com/Aquinas_Ed"><img id="twit" src="https://www.thenewfat.co.uk/signatures/aquinas/twit@2x.png" alt="twitter" border="0" srcset="twit.png 1x, twit@2x.png 2x" Style="padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 5px;
+		padding-right: 5px;
+		width: 21px;
+		height: 17px;"</a>
+		
+		<a href="https://www.instagram.com/aquinaseducation/"><img id="insta" src="http://www.thenewfat.co.uk/signatures/aquinas/insta@2x.png" alt="instagram" border="0" srcset="insta.png 1x, insta@2x.png 2x" Style="padding-top: 10px;
+		padding-bottom: 10px;
+		padding-left: 5px;
+		padding-right: 5px;
+		width: 18px;
+		height: 18px;"></a>
+		
+	<p>
+		<div id="Custom_1">	
+			<a href="https://aquinaseducation.co.uk/main/"><img id="logo" src="http://www.thenewfat.co.uk/signatures/aquinas/logo@2x.png" alt="logo"  border="0" srcset="logo.png 1x, logo@2x.png 2x" style=" width: 148.417px;height: 99.272px;padding-top: 10px;padding-bottom: 10px;"></a>
+			<img id="avatar" style="width: 99.272px; height: 99.272px; padding-top: 10px; padding-bottom: 10px;" src="http://www.thenewfat.co.uk/signatures/aquinas/avatar-sam.png" alt="avatar" border="0" srcset="avatar.png 1x, avatar@2x.png 2x">
+			<a href="https://aquinaseducation.co.uk/main/"><img id="referral" style="width: 307.052px; height: 99.718px; padding-top: 10px; padding-bottom: 10px;" src="http://www.thenewfat.co.uk/signatures/aquinas/referral-final@x2.png" alt="referral" border="0" srcset="referral-final.png 1x, referral-final@x2.png 2x"><a/>
+			
+	</div>
+		
+		<div id="Custom_2" Style="Display:None;">	
+		<a href="https://aquinaseducation.co.uk/main/"><img id="logo" src="http://www.thenewfat.co.uk/signatures/aquinas/logo@2x.png" alt="logo" border="0" srcset="logo.png 1x, logo@2x.png 2x" style="width: 148.417px;
+		height: 99.272px;padding-top: 10px;padding-bottom: 10px;"></a>
+			<img id="avatar" style="width: 99.272px;height: 99.272px;padding-top: 10px;padding-bottom: 10px;" src="http://www.thenewfat.co.uk/signatures/aquinas/avatar-sam.png" alt="avatar" border="0" srcset="avatar.png 1x, avatar@2x.png 2x">
+			<a href="https://aquinaseducation.co.uk/main/"><img id="referral" style="width: 307.052px;height: 99.718px;padding-top: 10px;padding-bottom: 10px;" src="http://www.thenewfat.co.uk/signatures/aquinas/referral-final@x2.png" alt="referral" border="0" srcset="referral-final.png 1x, referral-final@x2.png 2x"><a/>
+				
+			
+			</div>
+	
+		<div id="Aquinas_Education_Ltd_register" style="
+		width: 279px;
+		white-space: nowrap;
+		line-height: 15px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: Arial;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(30,30,30,1);">
+			<span>Aquinas Education Ltd registered in the UK - Company No: </span><span style="color:rgba(245,135,53,1);">xxxxxxxxx</span><br><span>Registered office: </span><span style="color:rgba(245,135,53,1);">xxxxxxxxxx</span>
+		</div>
+	</div>
